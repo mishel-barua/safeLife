@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806835138328",
+    "project_id": "savelife-6c137",
+    "storage_bucket": "savelife-6c137.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806835138328:android:12db14a3f3c19c9845f86d",
+        "android_client_info": {
+          "package_name": "com.example.savelife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41xk354iP6Km_eIrNYdkvKsz_blRBdKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
